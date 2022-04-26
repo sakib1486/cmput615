@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>59.jpeg</filename>
+	<path>/home/sakib-hasan/Desktop/Win22/cmput615/Project/ROI Detection/data/test/59.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1666</width>
+		<height>1392</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pneumonia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>413</xmin>
+			<ymin>355</ymin>
+			<xmax>694</xmax>
+			<ymax>811</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>backbone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>740</xmin>
+			<ymin>60</ymin>
+			<xmax>965</xmax>
+			<ymax>1063</ymax>
+		</bndbox>
+	</object>
+</annotation>

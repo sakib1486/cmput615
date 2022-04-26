@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>43.jpeg</filename>
+	<path>/home/sakib-hasan/Desktop/Win22/cmput615/Project/ROI Detection/data/train/43.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1160</width>
+		<height>776</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pneumonia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>221</ymin>
+			<xmax>414</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>backbone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>28</ymin>
+			<xmax>670</xmax>
+			<ymax>711</ymax>
+		</bndbox>
+	</object>
+</annotation>

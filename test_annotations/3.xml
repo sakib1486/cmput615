@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>3.jpeg</filename>
+	<path>/home/sakib-hasan/Desktop/Win22/cmput615/Project/ROI Detection/data/test/3.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1810</width>
+		<height>1434</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>backbone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>792</xmin>
+			<ymin>221</ymin>
+			<xmax>1060</xmax>
+			<ymax>1373</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20.jpeg</filename>
+	<path>/home/sakib-hasan/Desktop/Win22/cmput615/Project/ROI Detection/data/train/20.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1612</width>
+		<height>1133</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>backbone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>677</xmin>
+			<ymin>62</ymin>
+			<xmax>872</xmax>
+			<ymax>1113</ymax>
+		</bndbox>
+	</object>
+</annotation>
